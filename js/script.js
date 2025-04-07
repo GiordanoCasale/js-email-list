@@ -17,3 +17,4 @@ for (let i = 0; i < items; i++) {
         EmailList.innerHTML += `<li class="list-group-item">${mail}</li>`;
     });
 }
+
